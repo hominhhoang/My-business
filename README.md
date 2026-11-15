@@ -56,4 +56,5 @@ Kho này chứa toàn bộ nghiên cứu, kế hoạch và nhật ký quyết đ
 |---|---|---|
 | 15/11/2026 | Xác định hồ sơ và ràng buộc như bảng trên | Người sáng lập |
 | 15/11/2026 | Mở rộng địa bàn nghiên cứu sang Bình Dương và Tây Ninh | Người sáng lập |
+| 15/11/2026 | Đề xuất của AI: chưa cam kết ý tưởng nào; chạy phép thử 4 tuần cho phương án A trong tài liệu 04, chi tối đa 3 triệu đồng | AI đề xuất, chờ người sáng lập quyết định |
 | | Chọn hướng đi (bước 3) | Chờ |

@@ -132,6 +132,7 @@ Luật Bảo vệ dữ liệu cá nhân 91/2025/QH15 có hiệu lực từ 1/1/2
 
 - Hộ kinh doanh và doanh nghiệp siêu nhỏ được miễn ba nghĩa vụ thủ tục (lập hồ sơ đánh giá tác động, chỉ định nhân sự bảo vệ dữ liệu), **trừ khi** kinh doanh dịch vụ xử lý dữ liệu cá nhân, xử lý dữ liệu nhạy cảm, hoặc xử lý dữ liệu của số lượng lớn người.
 - Nếu bạn làm chatbot, CRM hoặc công cụ gửi tin nhắn chăm sóc khách cho shop, bạn là bên xử lý dữ liệu thay cho shop và nhiều khả năng không được hưởng ngoại lệ trên.
+- Một lượt phản biện ý tưởng còn tìm thấy thông tin rằng Nghị định 356/2025/NĐ-CP coi "kinh doanh dịch vụ xử lý dữ liệu cá nhân" là ngành có điều kiện, cần giấy chứng nhận của Bộ Công an và tối thiểu 3 nhân sự đủ chuẩn; Nghị định 330/2026/NĐ-CP (hiệu lực 19/8/2026) phạt tới 50–70 triệu đồng với một số vi phạm xử lý dữ liệu. Thông tin này chưa được đối chiếu với văn bản gốc. Nếu mô hình của bạn phải vào hộp thư khách hàng hoặc lưu dữ liệu khách của shop, hãy hỏi luật sư trước khi thu tiền.
 - Cách giảm rủi ro: để khách hàng sở hữu tài khoản và dữ liệu của họ; bạn chỉ cấu hình trên tài khoản của khách, không sao chép dữ liệu về hạ tầng riêng; ghi rõ phạm vi xử lý trong thoả thuận dịch vụ.
 
 Đây là một lý do để ưu tiên các ý tưởng không lưu dữ liệu cá nhân của khách hàng cuối.

@@ -16,6 +16,14 @@ Mười một bản ghi chú do các tác tử AI thu thập ngày 15/11/2026, m
 | [dia-ban-binh-duong.md](dia-ban-binh-duong.md) | Khu vực Bình Dương — thị trường cho kinh doanh nhỏ | Đã qua kiểm chứng độc lập | 12 |
 | [dia-ban-tay-ninh.md](dia-ban-tay-ninh.md) | Tây Ninh — thị trường cho kinh doanh nhỏ | Đã qua kiểm chứng độc lập | 12 |
 
+## Hồ sơ chọn ý tưởng
+
+| File | Nội dung |
+|---|---|
+| [ung-vien-y-tuong.md](ung-vien-y-tuong.md) | Mười ứng viên do bốn cố vấn AI đề xuất, trước phản biện |
+| [cham-diem-y-tuong.md](cham-diem-y-tuong.md) | Hai bảng điểm độc lập và nhận xét của giám khảo |
+| [phan-bien-y-tuong.md](phan-bien-y-tuong.md) | Kết quả phản biện bốn ứng viên dẫn đầu, kèm đối thủ, giá và nguồn |
+
 ## Giới hạn chung
 
 - AI không mở được trang gốc (truy cập web bị giới hạn trong phiên làm việc), nên mọi con số lấy từ đoạn trích của kết quả tìm kiếm.

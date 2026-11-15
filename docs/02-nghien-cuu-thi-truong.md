@@ -11,8 +11,8 @@ Bản tổng hợp ngày 15/11/2026 từ 11 hướng nghiên cứu: 8 hướng c
 3. **Phần mềm lõi cho shop và quán đã về giá 0.** 39 tổ chức công nghệ được Cục Thuế công bố hỗ trợ hộ kinh doanh; KiotViet, MISA, Sapo và các ngân hàng tặng phần mềm bán hàng, hoá đơn, kế toán; Nhà nước cấp miễn phí phần mềm kế toán theo Nghị định 20/2026. Một người làm một mình không thu được tiền ở lớp này.
 4. **Chatbot AI chốt đơn cũng đã thành hàng phổ thông.** Sapo Chat OmniAI, Botcake của Pancake, Meta Business AI trên Messenger (ra mắt tại Việt Nam ngày 7/4/2026), MISA AgentWork và AhaChat đều tích hợp sẵn.
 5. **Nhu cầu "tuân thủ thuế" của hộ nhỏ đã co mạnh.** Ngưỡng doanh thu không chịu thuế nâng lên 1 tỷ đồng/năm từ 1/1/2026. Chỉ nhóm trên 1 tỷ còn nghĩa vụ thuế và hoá đơn điện tử. Con số tham chiếu duy nhất tìm được: cả tỉnh Tây Ninh mới (hơn 3 triệu dân) chỉ có khoảng 3.950 hộ thuộc nhóm này.
-6. **Chỗ còn trống là "chặng cuối".** Đó là những việc các hãng lớn không làm cho từng khách: nối các phần mềm khác hãng, báo cáo hợp nhất nhiều kênh, tính lãi thật sau mọi loại phí, công cụ nội bộ cho một ngách hẹp.
-7. **Mục tiêu 10–20 triệu/tháng sau 12 tháng là kịch bản tốt.** Với 7–14 giờ/tuần và chỉ bán qua chat, ước lượng cơ sở cho dịch vụ đóng gói là 4–12 triệu/tháng ở tháng 7–12. Sản phẩm số thuần thường cần 12–24 tháng.
+6. **Chỗ còn trống là "chặng cuối", và nó hẹp hơn dự đoán ban đầu.** Đó là những việc các hãng lớn không làm cho từng khách: nối các phần mềm khác hãng, báo cáo hợp nhất khi dữ liệu nằm ở nhiều hệ thống, công cụ nội bộ cho một ngách hẹp. Báo cáo lãi theo từng mã hàng trên sàn thì đã có trong BigSeller và Sapo (xem tài liệu 04).
+7. **Mục tiêu 10–20 triệu/tháng sau 12 tháng là kịch bản tốt, không phải kịch bản cơ sở.** Với 7–14 giờ/tuần và chỉ bán qua chat, nghiên cứu ban đầu ước 4–12 triệu/tháng ở tháng 7–12 cho dịch vụ đóng gói. Sau khi phản biện từng ý tưởng cụ thể (tài liệu 04), mức cơ sở hạ xuống 3–5 triệu/tháng. Sản phẩm số thuần thường cần 12–24 tháng.
 
 ## 1. Khách hàng tiềm năng: họ đang gặp gì
 
@@ -47,7 +47,7 @@ Không tìm được giá giao dịch thật cho: dự án tự động hoá b�
 
 | Nhóm mô hình | Dữ liệu nói gì | Ước lượng năm đầu với 7–14 giờ/tuần | Hợp hồ sơ |
 |---|---|---|---|
-| Dịch vụ đóng gói về tự động hoá, báo cáo, tích hợp | Có nhu cầu ở nhóm shop và doanh nghiệp nhỏ còn sống; giá chưa kiểm chứng; bị giới hạn bởi quỹ giờ | Tháng 1–3: 0–3 triệu/tháng. Tháng 7–12: 4–12 triệu/tháng | Cao |
+| Dịch vụ đóng gói về tự động hoá, báo cáo, tích hợp | Có nhu cầu ở nhóm shop và doanh nghiệp nhỏ còn sống; giá chưa kiểm chứng; bị giới hạn bởi quỹ giờ | Tháng 1–3: 0–3 triệu/tháng. Tháng 7–12: nghiên cứu ước 4–12 triệu/tháng; sau phản biện còn 3–5 triệu/tháng | Cao nhất trong các nhóm |
 | Dịch vụ trước, đóng gói thành công cụ sau | Chưa tìm được ca Việt Nam được kiểm chứng; về lý thuyết giảm rủi ro "xây trước, bán sau" | Như dịch vụ trong năm đầu | Cao |
 | Phần mềm hoặc sản phẩm số tự bán | Trong mẫu 10.150 sản phẩm indie, 26,1% chưa từng có thanh toán; trung vị nhóm có doanh thu khoảng 140–145 USD/tháng; 64,4% đang đi ngang hoặc giảm | 0–7 triệu/tháng; mốc 15 triệu thường ở tháng 18–24 nếu đạt | Trung bình: hợp tính ngại bán, nhưng nút thắt là kênh phân phối |
 | Tự bán hàng trên sàn | Biên lãi ròng shop nhỏ được ghi nhận quanh 5–10% (tin cậy thấp); AI đã phổ biến trong giới bán hàng nên không còn là lợi thế riêng | 1–6 triệu/tháng, có thể lỗ | Thấp: cần vốn hàng, vận hành hằng ngày |
