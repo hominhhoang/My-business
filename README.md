@@ -14,8 +14,9 @@ Kho này chứa toàn bộ nghiên cứu, kế hoạch và nhật ký quyết đ
 | Yếu tố | Giá trị |
 |---|---|
 | Kinh nghiệm kinh doanh | Chưa có |
-| Vốn chịu mất trong 6–12 tháng đầu | 20–100 triệu đồng |
-| Thời gian | 7–14 giờ/tuần, buổi tối và cuối tuần |
+| Vốn chịu mất trong 6–12 tháng đầu | Tối đa 200 triệu đồng (nâng từ mức 20–100 triệu ngày 15/11/2026) |
+| Nhân sự | Có thể thuê 1–2 người (bổ sung ngày 15/11/2026) |
+| Thời gian của người sáng lập | 7–14 giờ/tuần, buổi tối và cuối tuần |
 | Thị trường | Trong nước: TP.HCM là chính, thêm Bình Dương và Tây Ninh |
 | Mục tiêu sau 12 tháng | Lợi nhuận 10–20 triệu đồng/tháng |
 | Mục tiêu dài hạn | Có nguồn thu thứ hai; nếu mất việc lập trình thì có thể thành nghề chính |
@@ -57,4 +58,5 @@ Kho này chứa toàn bộ nghiên cứu, kế hoạch và nhật ký quyết đ
 | 15/11/2026 | Xác định hồ sơ và ràng buộc như bảng trên | Người sáng lập |
 | 15/11/2026 | Mở rộng địa bàn nghiên cứu sang Bình Dương và Tây Ninh | Người sáng lập |
 | 15/11/2026 | Đề xuất của AI: chưa cam kết ý tưởng nào; chạy phép thử 4 tuần cho phương án A trong tài liệu 04, chi tối đa 3 triệu đồng | AI đề xuất, chờ người sáng lập quyết định |
+| 15/11/2026 | Mở rộng mô hình: vốn tối đa 200 triệu đồng, có thể thuê 1–2 nhân sự | Người sáng lập |
 | | Chọn hướng đi (bước 3) | Chờ |
